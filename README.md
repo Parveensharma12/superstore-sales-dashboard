@@ -3,7 +3,7 @@
 An interactive sales analysis dashboard built using **SQL (MySQL)** for data querying and **Excel (Pivot Tables + Slicers)** for visualization. This project analyzes retail sales data to uncover trends across categories, regions, customers, and time.
 
 ![Dashboard Preview](https://github.com/Parveensharma12/superstore-sales-dashboard/blob/main/Screenshot%202026-09-23%20143408.png)
-![Dashboard Preview 2](https://github.com/Parveensharma12/superstore-sales-dashboard/commit/4d93585e0e3c9277b19a2f21e9e56116a5f48633)
+![Dashboard Preview 2](https://github.com/Parveensharma12/superstore-sales-dashboard/blob/main/Screenshot%202026-09-23%20143430.png)
 ---
 
 ## 🎯 Project Overview
